@@ -2,7 +2,11 @@
   "name": "photo-codecademy",
   "version": "0.1.0",
   "description": "Codecademy's demo code for Building Apps with parcel article",
-  "scripts": {},
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
